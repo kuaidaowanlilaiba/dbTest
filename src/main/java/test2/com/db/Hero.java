@@ -5,6 +5,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public class Hero implements Serializable,Comparable<Hero>{
 
+
 	/**
 	 * 
 	 */
