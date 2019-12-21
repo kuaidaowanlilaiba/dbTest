@@ -77,6 +77,7 @@ public class Hero implements Serializable,Comparable<Hero>{
     
     
     public boolean isDead2(){
+    	
     	return 0>=hp.intValue()?true:false;
     }
 }
